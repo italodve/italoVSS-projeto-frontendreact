@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "name": "magnifyingGlass",
+    "name": "lupa",
     "price": 100,
     "url": "https://th.bing.com/th/id/R.831598d90c212654b9576578a73f821c?rik=yI6cXEPfc4o9%2bg&riu=http%3a%2f%2fclipart-library.com%2fimages%2f8TEb45kEc.png&ehk=urfrtuGp6GEpJHMl%2fg9nPY3yFhTSQSr21%2bUCGtOJ2bg%3d&risl=&pid=ImgRaw&r=0"
 
@@ -9,21 +9,21 @@
   
   {
     "id": 2,
-    "name": "sunGlass",
+    "name": "Óculos de Sol",
     "price": 200,
     "url":   "https://th.bing.com/th/id/R.56a999fa096e58bfa4e1be2c7cbd867a?rik=gi1uSUZH54M4%2bA&riu=http%3a%2f%2fpluspng.com%2fimg-png%2fsunglasses-png-aviator-sunglass-png-clipart-3381.png&ehk=RFq8V2UjKMZgdRY2qgWXuMRgCx98CEofIFzeoniTVMo%3d&risl=&pid=ImgRaw&r=0"
 
   },
   {
     "id": 3,
-    "name": "bag",
+    "name": "mochila",
     "price": 300,
     "url":   "https://www.pngmart.com/files/7/School-Bag-PNG-Transparent.png"
 
   },
    {
     "id": 4,
-    "name": "door",
+    "name": "corda",
     "price": 400,
     "url":   "https://www.pngall.com/wp-content/uploads/11/Rope-PNG-Images.png"
 
