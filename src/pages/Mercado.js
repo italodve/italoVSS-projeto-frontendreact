@@ -88,7 +88,7 @@ const GlobalStyle = createGlobalStyle`
          
           .sort((a,b) => {
           if (ordem === "Crescente"){
-            if(a.name.english < b.name.english){
+            if(a.name < b.name){
               return -1
             
             } else {
@@ -96,7 +96,7 @@ const GlobalStyle = createGlobalStyle`
             }
 
           }else if(ordem === "Decrescente"){
-            if(a.name.english < b.name.english){
+            if(a.name < b.name){
               return 1
             
             } else {
