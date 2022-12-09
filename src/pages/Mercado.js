@@ -43,9 +43,9 @@ const GlobalStyle = createGlobalStyle`
       };
       setCarrinho(novoCarrinho);
     } else {
-      const frutaEncontrada = compras.find((compra) => compra.id === id);
-      const novaFruta = { ...frutaEncontrada, amount: 1 };
-      const novaLista = [...carrinho, novaFruta];
+      const compraEncontrada = compras.find((compra) => compra.id === id);
+      const novaCompra = { ...compraEncontrada, amount: 1 };
+      const novaLista = [...carrinho, novaCompra];
       setCarrinho(novaLista);
     }
   }
